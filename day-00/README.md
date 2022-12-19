@@ -6,6 +6,7 @@ Ask the user for a name. If the given name is blank, print "Hello, SJEC". If any
 ## Sample Input 1
 ```
 Name: 
+
 ```
 
 ## Sample Output 1
