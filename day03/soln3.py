@@ -10,3 +10,4 @@ for i in s:
     if (avg<i):
         print(i)
         continue
+    
