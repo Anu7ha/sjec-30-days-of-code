@@ -24,9 +24,9 @@ def large(a,b,c):
     else:
         return c  
 for i in range(1,n+1):
-    a=int(input('Enter the 1st side: '))
-    b=int(input('Enter the 2st side: '))
-    c=int(input('Enter the 3rd side: '))
+    a=int(input('Enter 1st side: '))
+    b=int(input('Enter 2st side: '))
+    c=int(input('Enter 3rd side: '))
     print(a,b,c)
     if i%3==0:
         side.append(large(a,b,c))

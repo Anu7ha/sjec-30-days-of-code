@@ -5,7 +5,7 @@ for i in range(n):
 
 avg=sum(s)/n
 
-print("greater: ")
+print("Greater: ")
 for i in s:
     if (avg<i):
         print(i)
